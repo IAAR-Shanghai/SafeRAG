@@ -8,7 +8,7 @@ from retrievers import BaseRetriever, CustomBM25Retriever
 from FlagEmbedding import FlagReranker
 
 def bge_rerank_result(query_text: str, docs: List[str], top_n):
-    reranker = FlagReranker('/mnt/data102_d2/huggingface/models/bge-reranker-base')
+    reranker = FlagReranker('/path/to/your/bge-reranker-base')
     scores = reranker.compute_score([[query_text, passage] for passage in docs])
     score_doc_pairs = zip(scores, docs)
     sorted_pairs = sorted(score_doc_pairs, key=lambda x: x[0], reverse=True)
