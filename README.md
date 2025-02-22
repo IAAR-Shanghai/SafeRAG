@@ -80,9 +80,7 @@ Then, we adopt a unified sentence chunking strategy to segment the knowledge bas
 
 ### Results on Noise
 We inject different noise ratios into the text accessible in the RAG pipeline, including the **knowledge base**, **retrieved context**, and **filtered context**.
-<div align="center">
-    <img src="https://github.com/IAAR-Shanghai/SafeRAG/blob/main/assets/sfr_result_of_task_N.png" alt="SafeRAG" width="93%">
-</div>
+
 
 > - Regardless of the stage where noise is injected, the F1 (avg) score exhibits a downward trend as the noise ratio increases, indicating a decline in generation diversity.
 > - The retriever demonstrates some noise resistance, as noise injected at the knowledge base has approximately 50\% chance of not being retrieved. The results support this point. Specifically, as the noise ratio increases, the Retrieval Accuracy (RA) of injecting silver noise into the retrieved context or filtered context significantly outperforms that of injecting it into the knowledge base.
