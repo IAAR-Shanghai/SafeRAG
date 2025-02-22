@@ -38,7 +38,7 @@ We summarize our primary contributions as follows:
 pip install -r requirements.txt
 ```
 
-- Start the milvus-lite service(vector database)
+- Start the milvus-lite service (vector database)
 ```bash
 milvus-server
 ```
@@ -72,8 +72,10 @@ python quick_start_nctd.py \
 
 
 ## Results
-The default retrieval window for the silver noise task is set to top K = 6, with a default attack injection ratio of 3/6. For other tasks, the default retrieval window is top K = 2, and the attack injection ratio is fixed at 1/2. We evaluated the impact of using different retrievers **DPR**, **BM25**, **Hybrid**, **Hybrid-Rerank** and filters (OFF, **filter NLI**, **compressor SKR** across different RAG stages **indexing**, **retrieval**, **generation**) on the contexts retrieved for various generators (**DeepSeek**, **GPT-3.5-turbo**, **GPT-4**, **GPT-4o**, **Qwen 7B**, **Qwen 14B**, **Baichuan 13B**, **ChatGLM 6B**). The bold values represent the default settings.
-Then, we adopt a unified sentence chunking strategy to segment the knowledge base during indexing. The embedding model used is bge-base-zh-v1.5, the reranker is bge-reranker-base. 
+The default retrieval window for the silver noise task is set to top K = 6, with a default attack injection ratio of 3/6. For other tasks, the default retrieval window is top K = 2, and the attack injection ratio is fixed at 1/2. 
+We evaluate the security of 14 different types of RAG components against injected attack texts at different RAG stages (**indexing**, retrieval, and generation), including: (1) retrievers (**DPR, BM25, Hybrid, Hybrid-Rerank); (2) filters (OFF, **filter NLI**, compressor SKR); and (3) generators (**DeepSeek**, GPT-3.5-turbo, GPT-4, GPT-4o, Qwen 7B, Qwen 14B, Baichuan 13B, ChatGLM 6B).
+We evaluated the impact of using different retrievers **DPR**, **BM25**, **Hybrid**, **Hybrid-Rerank** and filters (OFF, **filter NLI**, **compressor SKR** across different RAG stages **indexing**, **retrieval**, **generation**) on the contexts retrieved for various generators (**DeepSeek**, **GPT-3.5-turbo**, **GPT-4**, **GPT-4o**, **Qwen 7B**, **Qwen 14B**, **Baichuan 13B**, **ChatGLM 6B**). 
+The bold values represent the default settings. Additionally, we adopt a unified sentence chunking strategy to segment the knowledge base during the indexing. The embedding model used is bge-base-zh-v1.5, the reranker is bge-reranker-base.  
 
 ### Results on Noise
 We inject different noise ratios into the text accessible in the RAG pipeline, including the **knowledge base**, **retrieved context**, and **filtered context**.
@@ -86,7 +88,8 @@ We inject different noise ratios into the text accessible in the RAG pipeline, i
 > - Regardless of the stage at which noise injection is performed, the F1 (avg) decreases as the noise ratio increases, indicating a decline in the diversity of generated responses.
 > - Different retrievers exhibit varying degrees of noise resistance (Fig.~\ref{fig:en1}-\ding{173}). The overall ranking of retrievers' robustness against noise attacks is Hybrid-Rerank > Hybrid > BM25 > DPR. This suggests that hybrid retrievers and rerankers are more inclined to retrieve diverse golden contexts rather than homogeneous attack contexts.
 > - When the noise ratio increases, the retrieval accuracy (RA) for noise injected into the retrieved or filtered context is significantly higher than that for noise injected into the knowledge base. This is because noise injected into the knowledge base has approximately a 50% chance of not being retrieved.
-> - The compressor SKR lacks sufficient security. Although it attempts to merge redundant information in silver noise, it severely compresses the detailed information necessary to answer questions within the retrieved context, leading to a decrease in F1 (avg). 
+> - The compressor SKR lacks sufficient security. Although it attempts to merge redundant information in silver noise, it severely compresses the detailed information necessary to answer questions within the retrieved context, leading to a decrease in F1 (avg).
+
 ### Results on Conflict, Toxicity, and DoS
 <div align="center">
     <img src="https://github.com/IAAR-Shanghai/SafeRAG/blob/main/assets/sfr_result_of_task_C.png" alt="SafeRAG" width="93%">
