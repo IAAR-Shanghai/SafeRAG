@@ -9,9 +9,6 @@
 - **Developing robust and trustworthy RAG systems?** Our benchmark provides a new **Security Evaluation Framework** to test defenses and reveals systemic weaknesses in the **RAG Pipeline**.
 - **Shaping RAG security policies?** SafeRAG provides **empirical evidence** of how **Data Injection** attacks can impact AI reliability.
 
-> \[!IMPORTANT\]
->
-> 🌟 **Star Us!** By starring our project on GitHub, you'll receive all release notifications instantly. We appreciate your support!
 
 ## :loudspeaker: News
 - **[2025/01]** We released SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model.
