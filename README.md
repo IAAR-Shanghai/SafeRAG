@@ -86,7 +86,7 @@ We inject different noise ratios into the text accessible in the RAG pipeline, i
 
 
 > - Regardless of the stage at which noise injection is performed, the F1 (avg) decreases as the noise ratio increases, indicating a decline in the diversity of generated responses.
-> - Different retrievers exhibit varying degrees of noise resistance (Fig.~\ref{fig:en1}-\ding{173}). The overall ranking of retrievers' robustness against noise attacks is Hybrid-Rerank > Hybrid > BM25 > DPR. This suggests that hybrid retrievers and rerankers are more inclined to retrieve diverse golden contexts rather than homogeneous attack contexts.
+> - Different retrievers exhibit varying degrees of noise resistance. The overall ranking of retrievers' robustness against noise attacks is Hybrid-Rerank > Hybrid > BM25 > DPR. This suggests that hybrid retrievers and rerankers are more inclined to retrieve diverse golden contexts rather than homogeneous attack contexts.
 > - When the noise ratio increases, the retrieval accuracy (RA) for noise injected into the retrieved or filtered context is significantly higher than that for noise injected into the knowledge base. This is because noise injected into the knowledge base has approximately a 50% chance of not being retrieved.
 > - The compressor SKR lacks sufficient security. Although it attempts to merge redundant information in silver noise, it severely compresses the detailed information necessary to answer questions within the retrieved context, leading to a decrease in F1 (avg).
 
