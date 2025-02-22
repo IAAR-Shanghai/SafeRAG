@@ -73,7 +73,7 @@ python quick_start_nctd.py \
 
 ## Results
 The default retrieval window for the silver noise task is set to top K = 6, with a default attack injection ratio of 3/6. For other tasks, the default retrieval window is top K = 2, and the attack injection ratio is fixed at 1/2. 
-We evaluate the security of 14 different types of RAG components against injected attack texts at different RAG stages (**indexing**, retrieval, and generation), including: (1) retrievers (**DPR, BM25, Hybrid, Hybrid-Rerank); (2) filters (OFF, **filter NLI**, compressor SKR); and (3) generators (**DeepSeek**, GPT-3.5-turbo, GPT-4, GPT-4o, Qwen 7B, Qwen 14B, Baichuan 13B, ChatGLM 6B).
+We evaluate the security of 14 different types of RAG components against injected attack texts at different RAG stages (**indexing**, retrieval, and generation), including: (1) retrievers (**DPR**, BM25, Hybrid, Hybrid-Rerank); (2) filters (OFF, **filter NLI**, compressor SKR); and (3) generators (**DeepSeek**, GPT-3.5-turbo, GPT-4, GPT-4o, Qwen 7B, Qwen 14B, Baichuan 13B, ChatGLM 6B).
 We evaluated the impact of using different retrievers **DPR**, **BM25**, **Hybrid**, **Hybrid-Rerank** and filters (OFF, **filter NLI**, **compressor SKR** across different RAG stages **indexing**, **retrieval**, **generation**) on the contexts retrieved for various generators (**DeepSeek**, **GPT-3.5-turbo**, **GPT-4**, **GPT-4o**, **Qwen 7B**, **Qwen 14B**, **Baichuan 13B**, **ChatGLM 6B**). 
 The bold values represent the default settings. Additionally, we adopt a unified sentence chunking strategy to segment the knowledge base during the indexing. The embedding model used is bge-base-zh-v1.5, the reranker is bge-reranker-base.  
 
