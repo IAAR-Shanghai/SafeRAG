@@ -33,7 +33,7 @@ We summarize our primary contributions as follows:
 
 - We reveal four attack tasks capable of bypassing the **retriever**, **filter**, and **generator**. For each attack task, we develop a lightweight RAG security evaluation dataset, primarily constructed by humans with LLM assistance.
 - We propose an economical, efficient, and accurate RAG security evaluation framework that incorporates attack-specific metrics, which are highly consistent with human judgment.
-- We introduce the first Chinese RAG security benchmark, \textbf{SafeRAG}, which analyzes the risks posed to the **retriever** and **generator** by the injection of **Noise**, **Conflict**, **Toxicity**, and **DoS** at various stages of the RAG pipeline.
+- We introduce the first Chinese RAG security benchmark, SafeRAG, which analyzes the risks posed to the **retriever** and **generator** by the injection of **Noise**, **Conflict**, **Toxicity**, and **DoS** at various stages of the RAG pipeline.
 
 ## Quick Start
 - Install dependency packages
