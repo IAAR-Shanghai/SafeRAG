@@ -82,11 +82,11 @@ We inject different noise ratios into the text accessible in the RAG pipeline, i
     <img src="https://github.com/IAAR-Shanghai/SafeRAG/blob/main/assets/sfr_result_of_task_N.png" alt="SafeRAG" width="93%">
 </div>
 
-> - Regardless of the stage where noise is injected, the F1 (avg) score exhibits a downward trend as the noise ratio increases, indicating a decline in generation diversity.
-> - The retriever demonstrates some noise resistance, as noise injected at the knowledge base has approximately 50\% chance of not being retrieved. The results support this point. Specifically, as the noise ratio increases, the Retrieval Accuracy (RA) of injecting silver noise into the retrieved context or filtered context significantly outperforms that of injecting it into the knowledge base.
-> - The performance of injecting noise into the retrieved context and filtered context is similar, indicating that the filter cannot effectively resist silver noise since silver noise still supports answering the query.
-> - Different retrievers exhibit varying levels of robustness to noise. Overall, the ranking is Hybrid-Rerank > Hybrid > BM25 > DPR, suggesting that compared to attack contexts, hybrid retriever and rerankers show a preference for retrieving golden contexts.  
-> - Compression-based filters like SKR are not sufficiently secure, as they tend to lose detailed information, leading to a decrease in F1 (avg).
+
+> - Regardless of the stage at which noise injection is performed, the F1 (avg) decreases as the noise ratio increases, indicating a decline in the diversity of generated responses.
+> - Different retrievers exhibit varying degrees of noise resistance (Fig.~\ref{fig:en1}-\ding{173}). The overall ranking of retrievers' robustness against noise attacks is Hybrid-Rerank > Hybrid > BM25 > DPR. This suggests that hybrid retrievers and rerankers are more inclined to retrieve diverse golden contexts rather than homogeneous attack contexts.
+> - When the noise ratio increases, the retrieval accuracy (RA) for noise injected into the retrieved or filtered context is significantly higher than that for noise injected into the knowledge base. This is because noise injected into the knowledge base has approximately a 50% chance of not being retrieved.
+> - The compressor SKR lacks sufficient security. Although it attempts to merge redundant information in silver noise, it severely compresses the detailed information necessary to answer questions within the retrieved context, leading to a decrease in F1 (avg). 
 ### Results on Conflict, Toxicity, and DoS
 <div align="center">
     <img src="https://github.com/IAAR-Shanghai/SafeRAG/blob/main/assets/sfr_result_of_task_C.png" alt="SafeRAG" width="93%">
