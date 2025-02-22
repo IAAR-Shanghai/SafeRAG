@@ -14,7 +14,7 @@
 > 🌟 **Star Us!** By starring our project on GitHub, you'll receive all release notifications instantly. We appreciate your support!
 
 ## :loudspeaker: News
-- **[2025/01]** We released SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model. Check out the [paper](https://arxiv.org/abs/2501.18636).
+- **[2025/01]** We released SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model.
 
 ## Overview
 <div align="center">
