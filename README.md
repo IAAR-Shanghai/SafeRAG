@@ -1,5 +1,5 @@
 <div align="center"><h2>
-<img src="https://github.com/IAAR-Shanghai/SafeRAG/blob/main/assets/sfr_logo.png" alt="sfr_logo" width=23px>SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model</h2></div>
+<img src="https://github.com/IAAR-Shanghai/SafeRAG/blob/main/assets/sfr_logo.png" alt="sfr_logo" width=23px> SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model</h2></div>
 
 
 
