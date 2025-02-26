@@ -1,6 +1,6 @@
 
 DeepSeek_key = ''
-DeepSeek_base = ''
+DeepSeek_base = 'https://api.deepseek.com'
 GPT_api_key = ''
 GPT_api_base = '' 
 Qwen_7B_local_path = ''
