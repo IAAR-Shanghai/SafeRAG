@@ -44,8 +44,8 @@ Bo Tang<sup>2</sup>, Shichao Song<sup>1</sup>, Mengwei Wang<sup>1</sup>, Jiawei 
 - **Developing robust and trustworthy RAG systems?** Our benchmark provides a new **Security Evaluation Framework** to test defenses and reveals systemic weaknesses in the **RAG Pipeline**.
 - **Shaping RAG security policies?** SafeRAG provides **empirical evidence** of how **Data Injection** attacks can impact AI reliability.
 
-## Tips
-Security evaluation datasets may become outdated or ineffective over time, diminishing their evaluation value. Therefore, until the attack tasks proposed in this paper are adequately addressed, we will continuously update the datasets to ensure their effectiveness.
+> \[!Tip\]
+> - Security evaluation datasets may become outdated or ineffective over time, diminishing their evaluation value. Therefore, until the attack tasks proposed in this paper are adequately addressed, we will continuously update the datasets to ensure their effectiveness.
 
 ## :loudspeaker: News
 - **[2025/01]** We released SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model.
