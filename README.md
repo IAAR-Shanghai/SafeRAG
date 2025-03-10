@@ -3,6 +3,40 @@
 
 
 
+<p align="center">
+<!-- arXiv badge with a more vibrant academic red -->
+<a href="https://arxiv.org/abs/2501.18636">
+<img src="https://img.shields.io/badge/arXiv-Paper-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
+</a>
+<!-- Github badge with clean dark color -->
+<a href="https://github.com/IAAR-Shanghai/SafeRAG">
+<img src="https://img.shields.io/badge/Github-Code-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+<!-- Huggingface Collection badge with more dynamic orange -->
+<a href="https://huggingface.co/collections/zaown/saferag-67b422f4072adee12c784bde">
+<img src="https://img.shields.io/badge/Huggingface-Collection-FF6F00?style=flat-square&logo=huggingface&logoColor=white">
+</a>
+</p>
+
+<div align="center">
+<p>
+Xun Liang<sup>1,*</sup>,
+<a href="https://github.com/siminniu">Simin Niu</a><sup>1,*</sup>,
+<a href="https://github.com/zhiyulee-RUC">Zhiyu Li</a><sup>2,†</sup>,
+Sensen Zhang<sup>1</sup>, Hanyu Wang<sup>1</sup>, Feiyu Xiong<sup>2</sup>, Jason Zhaoxin Fan<sup>3</sup>, 
+Bo Tang<sup>2</sup>, Shichao Song<sup>1</sup>, Mengwei Wang<sup>1</sup>, Jiawei Yang<sup>1</sup>
+</p>
+<p>
+<sup>1</sup><a href="https://en.ruc.edu.cn/">Renmin University of China</a>, 
+<sup>2</sup><a href="https://www.iaar.ac.cn/">Institute for Advanced Algorithms Research, Shanghai</a>,
+<sup>3</sup><a href="https://www.buaa.edu.cn/">Beihang University</a>
+</p>
+</div>
+
+<div align="center">
+<h5>For business inquiries, please contact us at <a href="mailto:lizy@iaar.ac.cn">lizy@iaar.ac.cn</a>.</h5>
+</div>
+
 
 
 **🎯 Who Should Pay Attention to Our Work?**
