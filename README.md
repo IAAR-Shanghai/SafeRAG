@@ -46,6 +46,7 @@ Bo Tang<sup>2</sup>, Shichao Song<sup>1</sup>, Mengwei Wang<sup>1</sup>, Jiawei 
 
 > \[!Tip\]
 > - Security evaluation datasets may become outdated or ineffective over time, diminishing their evaluation value. Therefore, until the attack tasks proposed in this paper are adequately addressed, we will continuously update the datasets to ensure their effectiveness.
+> - Each attack task in the SafeRAG dataset contains only about 100 evaluation data points, but it covers a wide range of topics, ensuring comprehensive assessment. This lightweight design not only helps reduce the evaluation cost for users but also enables a fast and cost-effective testing experience.
 
 ## :loudspeaker: News
 - **[2025/01]** We released SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model.
