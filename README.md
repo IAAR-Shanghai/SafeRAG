@@ -21,7 +21,7 @@
 <p>
 Xun Liang<sup>1,*</sup>,
 <a href="https://github.com/siminniu">Simin Niu</a><sup>1,*</sup>,
-<a href="https://github.com/zhiyulee-RUC">Zhiyu Li</a><sup>2,†</sup>,
+<a href="">Zhiyu Li</a><sup>2,†</sup>,
 Sensen Zhang<sup>1</sup>, Hanyu Wang<sup>1</sup>, Feiyu Xiong<sup>2</sup>, Jason Zhaoxin Fan<sup>3</sup>, 
 Bo Tang<sup>2</sup>, Shichao Song<sup>1</sup>, Mengwei Wang<sup>1</sup>, Jiawei Yang<sup>1</sup>
 </p>
