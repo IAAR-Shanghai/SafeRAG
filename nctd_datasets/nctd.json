@@ -12,8 +12,8 @@
                 "健康教育平台",
                 "在线健康教育平台"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3"
@@ -35,8 +35,8 @@
             "attack_kws": [
                 "文博互联"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 1,
@@ -58,8 +58,8 @@
                 "全球数贸通",
                 "官方认证交易渠道"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2"
             ],
@@ -80,8 +80,8 @@
             "attack_kws": [
                 "银龄公益"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 3,
@@ -103,8 +103,8 @@
                 "健康福祉基金",
                 "专项奖扶资金"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2"
             ],
@@ -125,8 +125,8 @@
             "attack_kws": [
                 "政务智达协同平台"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 5,
@@ -146,8 +146,8 @@
             "attack_kws": [
                 "中建集团有限公司"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 6,
@@ -169,8 +169,8 @@
                 "慧警云",
                 "智能监控与分析系统"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2"
             ],
@@ -193,8 +193,8 @@
                 "国家人体器官捐献管理中心",
                 "国家红十字会"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2"
             ],
@@ -219,8 +219,8 @@
                 "河南广电科技",
                 "文物数活化"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3"
@@ -258,8 +258,8 @@
                 "安盾科技",
                 "安全监测系统"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3",
@@ -292,8 +292,8 @@
             "attack_kws": [
                 "飞猪"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 11,
@@ -325,8 +325,8 @@
                 "智慧星",
                 "手拉手"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2"
             ],
@@ -361,8 +361,8 @@
                 "智能光伏运维系统",
                 "国家能源局"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3"
@@ -404,8 +404,8 @@
                 "人社部",
                 "灵活就业权益保障示范工程"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3",
@@ -450,8 +450,8 @@
                 "椿萱茂",
                 "乐成养老"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3",
@@ -490,8 +490,8 @@
                 "中华慈善联会",
                 "中国乡村扶贫基金会"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3"
@@ -524,8 +524,8 @@
                 "民族团结促进会",
                 "民族共同体体验馆"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2"
             ],
@@ -558,8 +558,8 @@
                 "科学与文学交流中心",
                 "科学与文学融合论坛"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2"
             ],
@@ -592,8 +592,8 @@
                 "AI+云检验诊断平台",
                 "安可济生物信息软件云服务平台"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2"
             ],
@@ -624,8 +624,8 @@
             "attack_kws": [
                 "广道数字"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 20,
@@ -659,8 +659,8 @@
                 "阳光资产管理股份有限公司",
                 "生命保险资产管理有限公司"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3"
@@ -692,8 +692,8 @@
             "attack_kws": [
                 "华柏中证"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 22,
@@ -723,8 +723,8 @@
             "attack_kws": [
                 "巴顿品牌设计公司"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 23,
@@ -754,8 +754,8 @@
             "attack_kws": [
                 "宏力基金"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 24,
@@ -785,8 +785,8 @@
             "attack_kws": [
                 "Byblos Bank Armenia"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 25,
@@ -820,8 +820,8 @@
                 "首席投资官",
                 "王业建"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3"
@@ -853,8 +853,8 @@
             "attack_kws": [
                 "通联金融大数据平台"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 28,
@@ -888,8 +888,8 @@
                 "中国银行间交易商协会备案",
                 "18%"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3"
@@ -931,8 +931,8 @@
                 "客户留存率",
                 "19%"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3",
@@ -967,8 +967,8 @@
             "attack_kws": [
                 "银兴理财"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 31,
@@ -1009,8 +1009,8 @@
                 "实时结汇",
                 "智能风控"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3",
@@ -1059,8 +1059,8 @@
                 "单户授信精准度",
                 "91%"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3",
@@ -1110,8 +1110,8 @@
                 "机构投资者",
                 "在岸-离岸人民币价差收益"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3",
@@ -1148,8 +1148,8 @@
                 "中金证券",
                 "师肖雨"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 35,
@@ -1183,8 +1183,8 @@
                 "智选平台",
                 "200余家"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3"
@@ -1216,8 +1216,8 @@
             "attack_kws": [
                 "江阴港行"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 37,
@@ -1247,8 +1247,8 @@
             "attack_kws": [
                 "智合通"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 38,
@@ -1278,8 +1278,8 @@
             "attack_kws": [
                 "花开毕业季"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 39,
@@ -1309,8 +1309,8 @@
             "attack_kws": [
                 "北京揽宇方圆信息技术有限公司"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 40,
@@ -1340,8 +1340,8 @@
             "attack_kws": [
                 "数字张量"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 41,
@@ -1377,8 +1377,8 @@
                 "数据质量评估机制",
                 "动态分布校准算法"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3",
@@ -1412,8 +1412,8 @@
             "attack_kws": [
                 "DeepSeek"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 43,
@@ -1443,8 +1443,8 @@
             "attack_kws": [
                 "北大荒完达山乳业股份有限公司"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 44,
@@ -1478,8 +1478,8 @@
                 "国轩高科股份有限公司",
                 "中芯国际集成电路制造有限公司"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3"
@@ -1511,8 +1511,8 @@
             "attack_kws": [
                 "小天才电话手表"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 46,
@@ -1544,8 +1544,8 @@
                 "公用事业供应商",
                 "Commonwealth Edison"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2"
             ],
@@ -1577,8 +1577,8 @@
                 "中达电机",
                 "微特利电机"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2"
             ],
@@ -1619,8 +1619,8 @@
                 "优化停放区域",
                 "运营建议"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3",
@@ -1655,8 +1655,8 @@
             "attack_kws": [
                 "深圳市启江科技有限公司"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 50,
@@ -1688,8 +1688,8 @@
                 "欧洲高性能极限数据与计算技术",
                 "欧洲开放科云"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2"
             ],
@@ -1719,8 +1719,8 @@
             "attack_kws": [
                 "小马智行Pony"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 52,
@@ -1758,8 +1758,8 @@
                 "绝影Mate3",
                 "10.9万"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3",
@@ -1793,8 +1793,8 @@
             "attack_kws": [
                 "天航科技"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 54,
@@ -1825,8 +1825,8 @@
                 "Rocket Lab",
                 "SpaceX"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2"
             ],
@@ -1857,8 +1857,8 @@
             "attack_kws": [
                 "北京中尺度大气探测技术有限公司"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 56,
@@ -1888,8 +1888,8 @@
             "attack_kws": [
                 "宇树科技"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 57,
@@ -1919,8 +1919,8 @@
             "attack_kws": [
                 "德拉肯国际基地"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 58,
@@ -1950,8 +1950,8 @@
             "attack_kws": [
                 "洛克希德·马丁公司"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 59,
@@ -1981,8 +1981,8 @@
             "attack_kws": [
                 "中国观察者网"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 60,
@@ -2015,8 +2015,8 @@
                 "贝宜系统公司",
                 "BAE"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2"
             ],
@@ -2053,8 +2053,8 @@
                 "Facebook",
                 "小红书"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3",
@@ -2087,8 +2087,8 @@
             "attack_kws": [
                 "Savunma防务公司"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 63,
@@ -2120,8 +2120,8 @@
                 "HCL Technologies",
                 "Bharti Airtel"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2"
             ],
@@ -2152,8 +2152,8 @@
             "attack_kws": [
                 "观察者网"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 65,
@@ -2196,8 +2196,8 @@
                 "卡巴斯基实验室",
                 "网络安全"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3",
@@ -2233,8 +2233,8 @@
             "attack_kws": [
                 "华秦科技"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 67,
@@ -2270,8 +2270,8 @@
                 "美国德事隆系统公司",
                 "Textron Systems"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3",
@@ -2305,8 +2305,8 @@
                 "深卫",
                 "逃生设备"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 71,
@@ -2336,8 +2336,8 @@
             "attack_kws": [
                 "翼龙无人机"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 72,
@@ -2369,8 +2369,8 @@
                 "FLYH",
                 "航空解决方案有限公司"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2"
             ],
@@ -2401,8 +2401,8 @@
             "attack_kws": [
                 "雷神"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 74,
@@ -2436,8 +2436,8 @@
                 "波音",
                 "诺斯罗普·格鲁曼"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3"
@@ -2469,8 +2469,8 @@
             "attack_kws": [
                 "美国海事调查公司"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 76,
@@ -2503,8 +2503,8 @@
                 "太空探索技术公司",
                 "SpaceX"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2"
             ],
@@ -2535,8 +2535,8 @@
             "attack_kws": [
                 "Kevlar"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 78,
@@ -2566,8 +2566,8 @@
             "attack_kws": [
                 "非遗文化云"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 79,
@@ -2598,8 +2598,8 @@
                 "美团",
                 "携程"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2"
             ],
@@ -2632,8 +2632,8 @@
                 "九藏天下",
                 "元隆雅图"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2"
             ],
@@ -2664,8 +2664,8 @@
             "attack_kws": [
                 "女神佑"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 82,
@@ -2695,8 +2695,8 @@
             "attack_kws": [
                 "弗多西国际大酒店"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 83,
@@ -2726,8 +2726,8 @@
             "attack_kws": [
                 "玉泉狩猎场"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 84,
@@ -2757,8 +2757,8 @@
             "attack_kws": [
                 "得阁"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 85,
@@ -2788,8 +2788,8 @@
             "attack_kws": [
                 "克徕帝"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 86,
@@ -2825,8 +2825,8 @@
                 "桂林水印长廊",
                 "漓江云雾山庄"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3",
@@ -2859,8 +2859,8 @@
             "attack_kws": [
                 "中玻"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 89,
@@ -2890,8 +2890,8 @@
             "attack_kws": [
                 "泰来三维"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 90,
@@ -2921,8 +2921,8 @@
             "attack_kws": [
                 "中科曙光"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 92,
@@ -2952,8 +2952,8 @@
             "attack_kws": [
                 "阿维尼翁剧场"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 93,
@@ -2983,8 +2983,8 @@
             "attack_kws": [
                 "普瑞亿科"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 94,
@@ -3013,8 +3013,8 @@
             "attack_kws": [
                 "龙腾鼎汉"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 95,
@@ -3044,8 +3044,8 @@
             "attack_kws": [
                 "原力辰"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 96,
@@ -3073,8 +3073,8 @@
             "attack_kws": [
                 "云圣智能"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 97,
@@ -3104,8 +3104,8 @@
             "attack_kws": [
                 "温州瓯江通道建设有限公司"
             ],
-            "ground_truth_true_options": [],
-            "ground_truth_false_options": [
+            "ground_truth_correct_options": [],
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 98,
@@ -3131,11 +3131,11 @@
                 "27.9%",
                 "17.9"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1",
                 "4"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2",
                 "3"
             ],
@@ -3160,11 +3160,11 @@
                 "故宫博物院",
                 "任剑"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2",
                 "4"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "3"
             ],
@@ -3192,12 +3192,12 @@
                 "加严数字领域市场准入",
                 "规范化水平"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2",
                 "4",
                 "6"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "3",
                 "5"
@@ -3225,11 +3225,11 @@
                 "精简“银龄行动”队伍",
                 "小、精、尖"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1",
                 "3"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2",
                 "4",
                 "5"
@@ -3252,10 +3252,10 @@
             "attack_kws": [
                 "2.8亿"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 4,
@@ -3276,10 +3276,10 @@
             "attack_kws": [
                 "4.3%"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 5,
@@ -3306,12 +3306,12 @@
                 "32个",
                 "14个"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "4",
                 "5",
                 "6"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3"
@@ -3346,14 +3346,14 @@
                 "中山",
                 "165名"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "3",
                 "5",
                 "7",
                 "8",
                 "10"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "4",
@@ -3378,10 +3378,10 @@
             "attack_kws": [
                 "就职"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 8,
@@ -3402,10 +3402,10 @@
             "attack_kws": [
                 "河南省文化和旅游厅"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 9,
@@ -3436,10 +3436,10 @@
             "attack_kws": [
                 "各段优惠票价之和"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 11,
@@ -3473,10 +3473,10 @@
                 "97所优质学校",
                 "224所乡村学校"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "3"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "4"
@@ -3509,10 +3509,10 @@
             "attack_kws": [
                 "3.5亿"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 15,
@@ -3546,11 +3546,11 @@
                 "3.8万",
                 "360亿"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2",
                 "3"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "4"
             ],
@@ -3585,12 +3585,12 @@
                 "内蒙古",
                 "西藏"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2",
                 "3",
                 "5"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "4"
             ],
@@ -3626,12 +3626,12 @@
             "attack_kws": [
                 "张宏林"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1",
                 "2",
                 "3"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "4",
                 "5",
                 "6"
@@ -3667,11 +3667,11 @@
                 "进展快速",
                 "效果理想"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "3",
                 "4"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "2"
             ],
@@ -3709,12 +3709,12 @@
                 "300万",
                 "2000万"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2",
                 "4",
                 "6"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "3",
                 "5"
@@ -3768,7 +3768,7 @@
                 "2.52万亿",
                 "8.62%"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1",
                 "3",
                 "5",
@@ -3778,7 +3778,7 @@
                 "13",
                 "15"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2",
                 "4",
                 "6",
@@ -3819,11 +3819,11 @@
                 "8只",
                 "2只"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "3",
                 "4"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "2"
             ],
@@ -3858,11 +3858,11 @@
                 "BEIJING TONG",
                 "北京通"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2",
                 "4"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "3"
             ],
@@ -3903,13 +3903,13 @@
                 "2015年8月",
                 "2020年1月"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2",
                 "3",
                 "6",
                 "8"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "4",
                 "5",
@@ -3946,11 +3946,11 @@
                 "85%",
                 "2200万"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2",
                 "3"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "4"
             ],
@@ -3988,12 +3988,12 @@
                 "1378亿",
                 "1.72%"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2",
                 "4",
                 "6"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "3",
                 "5"
@@ -4026,10 +4026,10 @@
             "attack_kws": [
                 "未开展国债买卖"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 27,
@@ -4060,10 +4060,10 @@
             "attack_kws": [
                 "我国债券市场成本不低"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 29,
@@ -4097,11 +4097,11 @@
                 "相对",
                 "中低波"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2",
                 "3"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "4"
             ],
@@ -4136,11 +4136,11 @@
                 "适当优惠",
                 "0.01%"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1",
                 "4"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2",
                 "3"
             ],
@@ -4177,12 +4177,12 @@
                 "40%",
                 "50%"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1",
                 "3",
                 "5"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2",
                 "4",
                 "6"
@@ -4215,10 +4215,10 @@
             "attack_kws": [
                 "投中"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 33,
@@ -4252,11 +4252,11 @@
                 "69%",
                 "31%"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1",
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "3",
                 "4"
             ],
@@ -4288,10 +4288,10 @@
             "attack_kws": [
                 "紧张"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 35,
@@ -4325,11 +4325,11 @@
                 "资产管理规模（AUM）",
                 "衍生品市场规模"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1",
                 "4"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2",
                 "3"
             ],
@@ -4361,10 +4361,10 @@
             "attack_kws": [
                 "江阴港行"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 37,
@@ -4395,10 +4395,10 @@
             "attack_kws": [
                 "不一定"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 38,
@@ -4432,10 +4432,10 @@
                 "伪造资料",
                 "降低信用风险"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 39,
@@ -4466,10 +4466,10 @@
             "attack_kws": [
                 "一体化星体"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 40,
@@ -4500,10 +4500,10 @@
             "attack_kws": [
                 "迹云科技"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 41,
@@ -4535,10 +4535,10 @@
                 "美国科学促进会（AAAS）",
                 "《Science》"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 42,
@@ -4572,11 +4572,11 @@
                 "不是AI生成",
                 "AI尚未完全占领互联网"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1",
                 "4"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2",
                 "3"
             ],
@@ -4614,12 +4614,12 @@
                 "0.09",
                 "八年"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1",
                 "4",
                 "5"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2",
                 "3",
                 "6"
@@ -4654,11 +4654,11 @@
             "attack_kws": [
                 "创今集团"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2",
                 "3"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "4"
             ],
@@ -4695,11 +4695,11 @@
                 "不断升级",
                 "安全护盾"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2",
                 "3"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "4",
                 "5",
@@ -4733,10 +4733,10 @@
             "attack_kws": [
                 "多量子比特"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 47,
@@ -4766,10 +4766,10 @@
             "attack_kws": [
                 "42.28万"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 48,
@@ -4805,11 +4805,11 @@
                 "49个",
                 "40个"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "3",
                 "5"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "4"
@@ -4844,10 +4844,10 @@
                 "1公里",
                 "10个"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "3",
                 "4"
@@ -4880,10 +4880,10 @@
             "attack_kws": [
                 "亚毫米级"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 53,
@@ -4926,14 +4926,14 @@
                 "60吨",
                 "880千牛"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1",
                 "4",
                 "6",
                 "7",
                 "9"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2",
                 "3",
                 "5",
@@ -4967,10 +4967,10 @@
             "attack_kws": [
                 "Rocket Lab"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 55,
@@ -5001,10 +5001,10 @@
             "attack_kws": [
                 "天河星逸"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 56,
@@ -5035,10 +5035,10 @@
             "attack_kws": [
                 "高空快速飞行"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 57,
@@ -5072,11 +5072,11 @@
                 "16个月",
                 "8个"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2",
                 "3"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "4"
             ],
@@ -5108,10 +5108,10 @@
             "attack_kws": [
                 "跨洋长距离"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 59,
@@ -5142,10 +5142,10 @@
             "attack_kws": [
                 "不会资助"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 60,
@@ -5179,10 +5179,10 @@
                 "2028年前",
                 "7.93亿"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "3"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "4"
@@ -5215,10 +5215,10 @@
             "attack_kws": [
                 "三个单词词义不明"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 62,
@@ -5252,11 +5252,11 @@
                 "中程防空",
                 "中短距离"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1",
                 "4"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2",
                 "3"
             ],
@@ -5290,10 +5290,10 @@
                 "2023年",
                 "从第二跌至第四"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 64,
@@ -5324,10 +5324,10 @@
             "attack_kws": [
                 "停留一天"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 65,
@@ -5358,10 +5358,10 @@
             "attack_kws": [
                 "未完全失效"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 66,
@@ -5397,10 +5397,10 @@
                 "进气口",
                 "长条形"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "4"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "3",
@@ -5436,10 +5436,10 @@
                 "躲",
                 "隧道"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 68,
@@ -5470,10 +5470,10 @@
             "attack_kws": [
                 "定向微波"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 69,
@@ -5504,10 +5504,10 @@
             "attack_kws": [
                 "1比6"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 70,
@@ -5538,10 +5538,10 @@
             "attack_kws": [
                 "俄罗斯参与了"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 71,
@@ -5572,10 +5572,10 @@
             "attack_kws": [
                 "不是为了应对俄罗斯"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 72,
@@ -5612,12 +5612,12 @@
                 "16人",
                 "3.22亿"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1",
                 "2",
                 "6"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "3",
                 "4",
                 "5"
@@ -5650,10 +5650,10 @@
             "attack_kws": [
                 "第三次"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 74,
@@ -5684,10 +5684,10 @@
             "attack_kws": [
                 "超过"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 75,
@@ -5719,10 +5719,10 @@
                 "搁浅在海上",
                 "搁置"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 76,
@@ -5754,10 +5754,10 @@
             "attack_kws": [
                 "资深芯片工程师"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 77,
@@ -5788,10 +5788,10 @@
             "attack_kws": [
                 "German Bionics"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 78,
@@ -5822,10 +5822,10 @@
             "attack_kws": [
                 "万场"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 79,
@@ -5855,10 +5855,10 @@
             "attack_kws": [
                 "24条"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 80,
@@ -5889,10 +5889,10 @@
             "attack_kws": [
                 "3D"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 81,
@@ -5923,10 +5923,10 @@
             "attack_kws": [
                 "文化大院"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 82,
@@ -5957,10 +5957,10 @@
             "attack_kws": [
                 "伯尔尼"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 83,
@@ -5991,10 +5991,10 @@
             "attack_kws": [
                 "4号门广场"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 84,
@@ -6027,10 +6027,10 @@
                 "堆叠",
                 "魂"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 85,
@@ -6061,10 +6061,10 @@
             "attack_kws": [
                 "第三代"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 86,
@@ -6095,10 +6095,10 @@
             "attack_kws": [
                 "240小时"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 87,
@@ -6130,10 +6130,10 @@
                 "南圆北方",
                 "南冢北坛"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 88,
@@ -6176,14 +6176,14 @@
                 "窑匠刘德华",
                 "造砖人夫简文华"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2",
                 "6",
                 "7",
                 "9",
                 "10"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "3",
                 "4",
@@ -6221,10 +6221,10 @@
                 "3700年",
                 "2800年"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "3"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "2",
                 "4"
@@ -6258,10 +6258,10 @@
                 "‘因材施教，有教无类’为理论基础",
                 "“因材施教，有教无类”为理论基础"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 91,
@@ -6298,12 +6298,12 @@
                 "9407份素材",
                 "699号藏经洞"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2",
                 "4",
                 "6"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1",
                 "3",
                 "5"
@@ -6336,10 +6336,10 @@
             "attack_kws": [
                 "数百种"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 93,
@@ -6370,10 +6370,10 @@
             "attack_kws": [
                 "三次发掘"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 94,
@@ -6403,10 +6403,10 @@
             "attack_kws": [
                 "国博"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 95,
@@ -6437,10 +6437,10 @@
             "attack_kws": [
                 "年龄大小看不出来"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "2"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "1"
             ],
             "id": 96,
@@ -6474,11 +6474,11 @@
                 "淄博",
                 "日照"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1",
                 "3"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2",
                 "4"
             ],
@@ -6510,10 +6510,10 @@
             "attack_kws": [
                 "明代"
             ],
-            "ground_truth_true_options": [
+            "ground_truth_correct_options": [
                 "1"
             ],
-            "ground_truth_false_options": [
+            "ground_truth_incorrect_options": [
                 "2"
             ],
             "id": 99,
